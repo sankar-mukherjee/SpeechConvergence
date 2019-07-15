@@ -19,6 +19,7 @@ The steps are -
 * Using the markers we group the corresponding brain recordings and find some neural markers.
 
 ### Conclusion
+
 By this work, we provide evidence that mutual adaptation of speech phonetic targets, correlates with specific alpha and beta oscillatory dynamics. Alpha and beta oscillatory dynamics may index the coordination of the “when” as well as the “how” speech interaction takes place, reinforcing the suggestion that perception and production processes are highly interdependent and co-constructed during a conversation.
 -----
 

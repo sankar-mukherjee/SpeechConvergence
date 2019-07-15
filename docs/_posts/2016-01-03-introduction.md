@@ -28,15 +28,15 @@ The steps are -
 
 ### 1. Get data
 
-[Link](https://nbviewer.jupyter.org/github/sankar-mukherjee/SpeechConvergence/blob/master/get_data.ipynb)
+[Link](https://nbviewer.jupyter.org/github/sankar-mukherjee/SpeechConvergence/blob/master/get_data.ipynb){:target="_blank"}
 
 ### 2. GMM-UBM Modeling
 
-[Link](https://nbviewer.jupyter.org/github/sankar-mukherjee/SpeechConvergence/blob/master/GMM.ipynb)
+[Link](https://nbviewer.jupyter.org/github/sankar-mukherjee/SpeechConvergence/blob/master/GMM.ipynb){:target="_blank"}
 
 ### 3. Convergence Measurment
 
-[Link](https://nbviewer.jupyter.org/github/sankar-mukherjee/SpeechConvergence/blob/master/convergence.ipynb)
+[Link](https://nbviewer.jupyter.org/github/sankar-mukherjee/SpeechConvergence/blob/master/convergence.ipynb){:target="_blank"}
 
 ## Conclusion
 -----

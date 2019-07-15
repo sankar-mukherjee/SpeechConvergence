@@ -3,15 +3,15 @@ layout: post
 title: Introduction
 ---
 ## Short Description
-
+-----
 During a conversation, speakers tend to converge towards each other. This phenomenon is called speech convergence. Aim of this project is to find what happens in the participants brain during speech convergence.
 
 ## Theory
-
+-----
 ## Goal
-
+-----
 ## Experiment
-
+-----
 We used dual electroencephalography (dual-EEG) to record brain signals from subjects involved in a relatively constrained interactive task where they were asked to take turns in chaining words according to a phonetic rhyming rule.
 
 ![dualeeg](/SpeechConvergence/img/hyperscanning-thumbnail.png)
@@ -19,7 +19,7 @@ We used dual electroencephalography (dual-EEG) to record brain signals from subj
 
 
 ## Steps
-
+-----
 The steps are -
 * Quantifying speech convergence and mark the time points in the conversation.
 * Using the markers we group the corresponding brain recordings and find some neural markers.
@@ -39,7 +39,7 @@ The steps are -
 [Link](https://nbviewer.jupyter.org/github/sankar-mukherjee/SpeechConvergence/blob/master/convergence.ipynb)
 
 ## Conclusion
-
+-----
 By this work, we provide evidence that mutual adaptation of speech phonetic targets, correlates with specific alpha and beta oscillatory dynamics. Alpha and beta oscillatory dynamics may index the coordination of the “when” as well as the “how” speech interaction takes place, reinforcing the suggestion that perception and production processes are highly interdependent and co-constructed during a conversation.
 
 -----

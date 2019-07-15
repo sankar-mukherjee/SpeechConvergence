@@ -32,7 +32,9 @@ The steps are -
 
 ### 2. GMM-UBM Modeling
 
-[Link](https://nbviewer.jupyter.org/github/sankar-mukherjee/SpeechConvergence/blob/master/GMM.ipynb){:target="_blank"}
+We quantified participants' initial phonetic fingerprints and tracked their phonetic convergence during the interaction via a robust and automatic speaker verification technique.
+
+[Link](https://nbviewer.jupyter.org/github/sankar-mukherjee/SpeechConvergence/blob/master/GMM-UBM.ipynb){:target="_blank"}
 
 ### 3. Convergence Measurment
 

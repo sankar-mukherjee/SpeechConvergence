@@ -12,6 +12,11 @@ During a conversation, speakers tend to converge towards each other. This phenom
 
 ### Experiment
 
+We used dual electroencephalography (dual-EEG) to record brain signals from subjects involved in a relatively constrained interactive task where they were asked to take turns in chaining words according to a phonetic rhyming rule.
+
+![Domino](/img/hyperscanning-thumbnail.png)
+
+
 ### Steps
 
 The steps are -

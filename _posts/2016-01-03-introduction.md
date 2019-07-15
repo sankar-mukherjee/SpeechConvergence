@@ -2,8 +2,9 @@
 layout: post
 title: Introduction
 ---
+### Short Description ----
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
+During a conversation, speakers tend to converge towards each other. This phenomenon is called speech convergence. Aim of this project is to find what happens in the participants brain during speech convergence.
 
 -----
 

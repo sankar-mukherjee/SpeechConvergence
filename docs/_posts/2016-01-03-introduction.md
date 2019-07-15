@@ -2,15 +2,15 @@
 layout: post
 title: Introduction
 ---
-### Short Description
+## Short Description
 
 During a conversation, speakers tend to converge towards each other. This phenomenon is called speech convergence. Aim of this project is to find what happens in the participants brain during speech convergence.
 
-### Theory
+## Theory
 
-### Goal
+## Goal
 
-### Experiment
+## Experiment
 
 We used dual electroencephalography (dual-EEG) to record brain signals from subjects involved in a relatively constrained interactive task where they were asked to take turns in chaining words according to a phonetic rhyming rule.
 
@@ -18,19 +18,33 @@ We used dual electroencephalography (dual-EEG) to record brain signals from subj
 ![Domino](/SpeechConvergence/img/domino.png)
 
 
-### Steps
+## Steps
 
 The steps are -
 * Quantifying speech convergence and mark the time points in the conversation.
 * Using the markers we group the corresponding brain recordings and find some neural markers.
 
-### Conclusion
+-----
+
+### 1. Get data
+
+[Link](https://nbviewer.jupyter.org/github/sankar-mukherjee/SpeechConvergence/blob/master/get_data.ipynb)
+
+### 2. GMM-UBM Modeling
+
+[Link](https://nbviewer.jupyter.org/github/sankar-mukherjee/SpeechConvergence/blob/master/GMM.ipynb)
+
+### 3. Convergence Measurment
+
+[Link](https://nbviewer.jupyter.org/github/sankar-mukherjee/SpeechConvergence/blob/master/convergence.ipynb)
+
+## Conclusion
 
 By this work, we provide evidence that mutual adaptation of speech phonetic targets, correlates with specific alpha and beta oscillatory dynamics. Alpha and beta oscillatory dynamics may index the coordination of the “when” as well as the “how” speech interaction takes place, reinforcing the suggestion that perception and production processes are highly interdependent and co-constructed during a conversation.
 
 -----
 
-### Publication
+## Publication
 
 * Mukherjee, S., Badino, L., M. Hilt, P., Tomassini, A., Inuggi, A., Fadiga, L., Nguyen, N. and D'Ausilio, A., 2018. The neural oscillatory markers of phonetic convergence during verbal interaction. Human brain mapping. [Link](https://www.ncbi.nlm.nih.gov/pubmed/30240542)
  

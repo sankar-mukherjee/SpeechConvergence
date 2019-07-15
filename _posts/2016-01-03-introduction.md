@@ -2,41 +2,32 @@
 layout: post
 title: Introduction
 ---
-### Short Description ----
+### Short Description
 
 During a conversation, speakers tend to converge towards each other. This phenomenon is called speech convergence. Aim of this project is to find what happens in the participants brain during speech convergence.
 
+### Theory
+
+### Goal
+
+### Experiment
+
+### Steps
+
+The steps are -
+* Quantifying speech convergence and mark the time points in the conversation.
+* Using the markers we group the corresponding brain recordings and find some neural markers.
+
+### Conclusion
+By this work, we provide evidence that mutual adaptation of speech phonetic targets, correlates with specific alpha and beta oscillatory dynamics. Alpha and beta oscillatory dynamics may index the coordination of the “when” as well as the “how” speech interaction takes place, reinforcing the suggestion that perception and production processes are highly interdependent and co-constructed during a conversation.
 -----
 
-Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.
+### Publication
 
-There are currently three themes built on Poole:
+* Mukherjee, S., Badino, L., M. Hilt, P., Tomassini, A., Inuggi, A., Fadiga, L., Nguyen, N. and D'Ausilio, A., 2018. The neural oscillatory markers of phonetic convergence during verbal interaction. Human brain mapping. [Link](https://www.ncbi.nlm.nih.gov/pubmed/30240542)
+ 
+* Mukherjee, S., D'Ausilio, A., Nguyen, N., Fadiga, L. and Badino, L., 2017, August. The Relationship Between F0 Synchrony and Speech Convergence in Dyadic Interaction. In Interspeech 2017. [Link](https://hal.archives-ouvertes.fr/hal-01579789/document)
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-* [Enfield](http://enfield.getpoole.com)
 
-Learn more and contribute on [GitHub]({{ site.github.repo }}).
 
-### What's included
 
-Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it like this one, includes the following:
-
-* Complete Jekyll setup included (layouts, config, [404]({{ site.baseurl }}/404.html), [RSS feed]({{ site.baseurl }}/atom.xml), posts, and [example page]({{ site.baseurl }}/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Jekyll's built-in support for Rouge
-
-Additional features are available in individual themes.
-
-### Browser support
-
-Poole and its themes are by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-These themes are developed on and hosted with GitHub. Head to the [GitHub repository]({{ site.github.repo }}) for downloads, bug reports, and features requests.
-
-Thanks!

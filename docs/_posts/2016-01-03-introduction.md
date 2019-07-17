@@ -2,15 +2,19 @@
 layout: post
 title: Introduction
 ---
-## Short Description
 
-<img src="/SpeechConvergence/img/Convergence-thumbnail.png" align="left">
+<img src="/SpeechConvergence/img/Convergence-thumbnail.png" align="right">
 
 <p style="text-align: justify;text-justify: inter-word;">
 When people engage in verbal interaction, they adjust their speech in order to accommodate to each other. This phenomenon is called Speech Convergence. It is an emergent behavior. Although convergence is a well-known phenomenon, its quantitative assessment is still an open area of research. Here, we developed a method using automatic speaker verification technique (GMM-UBM) in order to measure speech convergence. We quantified participants' initial phonetic fingerprints and tracked their phonetic convergence during the verbal interaction.
 </p>
 
 ## Theory
+
+
+<details><summary>Theory</summary>
+<p>
+
 The dynamical process of mutual adaptation which occurs at multiple levels is a key component of natural linguistic interaction that is crucially missing in classical laboratory tasks. One interesting phenomenon during linguistic interaction is that of Alignment. Figure 1.8 illustrates an abstract representation of the process of alignment. It shows that interlocutor’s linguistic representation interact at multiple levels. The interaction takes place through
 priming. In simple terms, subjects engaged in a conversation, via a process of automatic imitation tends to accommodate their utterances to their interlocutor at the lexical, phonetic, semantic, and discourse levels simultaneously.
 
@@ -18,6 +22,11 @@ priming. In simple terms, subjects engaged in a conversation, via a process of a
 
 As conversation progress interlocutors simultaneously affect each others mental states. Conversational success is indeed characterized by the shared understanding of the spoken content, speakers’ mutual likability, background environment, etc. (Menenti et al. (2012); Garnier et al. (2013)). More interestingly, people involved in a dialogue automatically and implicitly converge at multiple linguistic levels (Bilous and Krauss (1988); Pardo et al.
 (2010)) as well as with co-verbal bodily gestures (Turner and West (2010)). For instance, agreeing interlocutors tend to copy each other’s choices of sounds, words, grammatical constructions as well as the temporal characteristics of speech. Nevertheless, this form of implicit behavioral alignment is still poorly understood, especially regarding its effects on communication efficacy, social and contextual determinants, and neural underpinnings (Stolket al. (2016)).
+
+</p>
+</details>
+
+
 
 According to speech convergence literature Convergence happens in multiple levels (phonetic, word, sentence, prosodic, discourse).
 

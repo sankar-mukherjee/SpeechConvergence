@@ -12,7 +12,7 @@ When people engage in verbal interaction, they adjust their speech in order to a
 -------
 ## Theory
 
-<details><summary>.</summary>
+<details><summary></summary>
 <p>
 
 The dynamical process of mutual adaptation which occurs at multiple levels is a key component of natural linguistic interaction that is crucially missing in classical laboratory tasks. One interesting phenomenon during linguistic interaction is that of Alignment. Figure 1.8 illustrates an abstract representation of the process of alignment. It shows that interlocutor’s linguistic representation interact at multiple levels. The interaction takes place through
@@ -36,14 +36,9 @@ Quantifying speech convergence and mark the time points in the conversation.
 
 We created a simple interactive task which allows better experimental control. In the task subjects involved in a relatively constrained interactive task where they were asked to take turns in chaining words according to a phonetic rhyming rule.
 
-<p>
+<p><img src="/SpeechConvergence/img/domino.png" align="left"> The first syllable of a word has to rhyme with the last syllable of the previous word.</p>
 
-<img src="/SpeechConvergence/img/domino.png" align="middle">
-<img src="/SpeechConvergence/img/convergence_protocol.png" width="500" align="middle">
-
-</p>
-
-A computational approach for convergence calculation.
+<p>Experiment Protocol<img src="/SpeechConvergence/img/convergence_protocol.png" width="500" align="right"></p>
 
 ## Steps
 

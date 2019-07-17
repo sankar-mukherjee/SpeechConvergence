@@ -10,7 +10,7 @@ When people engage in verbal interaction, they adjust their speech in order to a
 </p>
 
 -------
-## Theory
+### Theory
 
 <details><summary></summary>
 <p>
@@ -28,11 +28,11 @@ As conversation progress interlocutors simultaneously affect each others mental 
 
 Convergence happens in multiple levels (phonetic, word, sentence, prosodic, discourse).
 
-## Goal
+### Goal
 
 Quantifying speech convergence and mark the time points in the conversation.
 
-## Experiment
+### Experiment
 
 We created a simple interactive task which allows better experimental control. In the task subjects involved in a relatively constrained interactive task where they were asked to take turns in chaining words according to a phonetic rhyming rule. 
 
@@ -46,7 +46,7 @@ We created a simple interactive task which allows better experimental control. I
 `Experiment Protocol`
 </p>
 
-## Steps
+### Steps
 
 The steps are -
 
@@ -60,12 +60,12 @@ The steps are -
 
 	[NoteBook](https://nbviewer.jupyter.org/github/sankar-mukherjee/SpeechConvergence/blob/master/convergence.ipynb){:target="_blank"}
 
-## Conclusion
+### Conclusion
 
 By this work, we provide evidence that mutual adaptation of speech phonetic targets, correlates with specific alpha and beta oscillatory dynamics. Alpha and beta oscillatory dynamics may index the coordination of the “when” as well as the “how” speech interaction takes place, reinforcing the suggestion that perception and production processes are highly interdependent and co-constructed during a conversation.
 
 -----
-## Publication
+### Publication
 
 > Mukherjee, S., Badino, L., M. Hilt, P., Tomassini, A., Inuggi, A., Fadiga, L., Nguyen, N. and D'Ausilio, A., 2018. The neural oscillatory markers of phonetic convergence during verbal interaction. Human brain mapping. [Link](https://www.ncbi.nlm.nih.gov/pubmed/30240542)
  

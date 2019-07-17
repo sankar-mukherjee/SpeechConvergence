@@ -15,25 +15,26 @@ priming. In simple terms, subjects engaged in a conversation, via a process of a
 As conversation progress interlocutors simultaneously affect each others mental states. Conversational success is indeed characterized by the shared understanding of the spoken content, speakers’ mutual likability, background environment, etc. (Menenti et al. (2012); Garnier et al. (2013)). More interestingly, people involved in a dialogue automatically and implicitly converge at multiple linguistic levels (Bilous and Krauss (1988); Pardo et al.
 (2010)) as well as with co-verbal bodily gestures (Turner and West (2010)). For instance, agreeing interlocutors tend to copy each other’s choices of sounds, words, grammatical constructions as well as the temporal characteristics of speech. Nevertheless, this form of implicit behavioral alignment is still poorly understood, especially regarding its effects on communication efficacy, social and contextual determinants, and neural underpinnings (Stolket al. (2016)).
 
+According to speech convergence literature Convergence happens in multiple levels (phonetic, word, sentence, prosodic, discourse).
+
+
 ## Goal
------
+
+Quantifying speech convergence and mark the time points in the conversation.
+
 ## Experiment
------
 
-![experiment](/SpeechConvergence/img/convergence_protocol.png)
-
-We used dual electroencephalography (dual-EEG) to record brain signals from subjects involved in a relatively constrained interactive task where they were asked to take turns in chaining words according to a phonetic rhyming rule.
+We created a simple interactive task which allows better experimental control. In the task subjects involved in a relatively constrained interactive task where they were asked to take turns in chaining words according to a phonetic rhyming rule.
 
 ![Domino](/SpeechConvergence/img/domino.png)
 
+A computational approach for convergence calculation.
+
+![experiment](/SpeechConvergence/img/convergence_protocol.png)
 
 ## Steps
------
-The steps are -
-* Quantifying speech convergence and mark the time points in the conversation.
-* Using the markers we group the corresponding brain recordings and find some neural markers.
 
------
+The steps are -
 
 #### GMM-UBM Modeling
 

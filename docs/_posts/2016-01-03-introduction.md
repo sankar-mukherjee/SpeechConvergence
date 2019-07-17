@@ -34,11 +34,14 @@ Quantifying speech convergence and mark the time points in the conversation.
 
 ## Experiment
 
-We created a simple interactive task which allows better experimental control. In the task subjects involved in a relatively constrained interactive task where they were asked to take turns in chaining words according to a phonetic rhyming rule.
+We created a simple interactive task which allows better experimental control. In the task subjects involved in a relatively constrained interactive task where they were asked to take turns in chaining words according to a phonetic rhyming rule. 
 
-<p><img src="/SpeechConvergence/img/domino.png" align="left"> The first syllable of a word has to rhyme with the last syllable of the previous word.</p>
-
-<p>Experiment Protocol<img src="/SpeechConvergence/img/convergence_protocol.png" width="500" align="right"></p>
+<p>
+<img src="/SpeechConvergence/img/domino.png" align="middle">
+```The first syllable of a word has to rhyme with the last syllable of the previous word.```
+<img src="/SpeechConvergence/img/convergence_protocol.png" width="500" align="middle">
+```Experiment Protocol```
+</p>
 
 ## Steps
 

@@ -5,12 +5,23 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <article class="post">
-    <h1 class="post-title">
-      SpeechConvergence
-    </h1>
-	<p style="text-align: right;">Istituto Italiano di Tecnologia</p>
-	<p style="text-align: right;">2015 - 2018</p>
+  <article class="post"> 
+    
+	<table style="width:100%">
+		<tr>
+			<td>
+				<h1 class="post-title">
+					SpeechConvergence
+				</h1>
+			</td>
+			<td>
+				<p style="text-align: right;">Istituto Italiano di Tecnologia</p>
+				<p style="text-align: right;">2015 - 2018</p>
+			</td>
+		</tr>
+	</table>
+	
+	
     {{ post.content }}
   </article>
   {% endfor %}

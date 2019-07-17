@@ -26,7 +26,7 @@ As conversation progress interlocutors simultaneously affect each others mental 
 </p>
 </details>
 
-According to speech convergence literature Convergence happens in multiple levels (phonetic, word, sentence, prosodic, discourse).
+Convergence happens in multiple levels (phonetic, word, sentence, prosodic, discourse).
 
 ## Goal
 
@@ -38,9 +38,13 @@ We created a simple interactive task which allows better experimental control. I
 
 <p>
 <img src="/SpeechConvergence/img/domino.png" align="middle">
-```The first syllable of a word has to rhyme with the last syllable of the previous word.```
+```
+The first syllable of a word has to rhyme with the last syllable of the previous word.
+```
 <img src="/SpeechConvergence/img/convergence_protocol.png" width="500" align="middle">
-```Experiment Protocol```
+```
+Experiment Protocol
+```
 </p>
 
 ## Steps

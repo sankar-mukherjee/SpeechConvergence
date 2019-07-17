@@ -4,7 +4,10 @@ title: Introduction
 ---
 ## Short Description
 
+<img src="/SpeechConvergence/img/speech_alignment.png" width="600" align="right">
+<a style="text-align: justify;text-justify: inter-word;">
 When people engage in verbal interaction, they adjust their speech in order to accommodate to each other. This phenomenon is called Speech Convergence. It is an emergent behavior. Although convergence is a well-known phenomenon, its quantitative assessment is still an open area of research. Here, we developed a method using automatic speaker verification technique (GMM-UBM) in order to measure speech convergence. We quantified participants' initial phonetic fingerprints and tracked their phonetic convergence during the verbal interaction.
+</a>
 
 ## Theory
 The dynamical process of mutual adaptation which occurs at multiple levels is a key component of natural linguistic interaction that is crucially missing in classical laboratory tasks. One interesting phenomenon during linguistic interaction is that of Alignment. Figure 1.8 illustrates an abstract representation of the process of alignment. It shows that interlocutor’s linguistic representation interact at multiple levels. The interaction takes place through

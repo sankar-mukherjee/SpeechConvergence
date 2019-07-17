@@ -44,29 +44,27 @@ We created a simple interactive task which allows better experimental control. I
 <img src="/SpeechConvergence/img/convergence_protocol.png" width="500" align="middle">
 
 `Experiment Protocol`
-
 </p>
 
 ## Steps
 
 The steps are -
 
-<dl>
-<dt>GMM-UBM Modeling</dt>
-We quantified participants' initial phonetic fingerprints and tracked their phonetic convergence during the interaction via a robust and automatic speaker verification technique. </br>
+#### GMM-UBM Modeling
+
+We quantified participants' initial phonetic fingerprints and tracked their phonetic convergence during the interaction via a robust and automatic speaker verification technique.
 
 [NoteBook](https://nbviewer.jupyter.org/github/sankar-mukherjee/SpeechConvergence/blob/master/GMM-UBM.ipynb){:target="_blank"}
 
-<dt>Convergence Measurment</dt>
+#### Convergence Measurment
+
 [NoteBook](https://nbviewer.jupyter.org/github/sankar-mukherjee/SpeechConvergence/blob/master/convergence.ipynb){:target="_blank"}
 
-</dl>
-
+## Conclusion
+-----
+By this work, we provide evidence that mutual adaptation of speech phonetic targets, correlates with specific alpha and beta oscillatory dynamics. Alpha and beta oscillatory dynamics may index the coordination of the “when” as well as the “how” speech interaction takes place, reinforcing the suggestion that perception and production processes are highly interdependent and co-constructed during a conversation.
 
 -----
-## Conclusion
-
-By this work, we provide evidence that mutual adaptation of speech phonetic targets, correlates with specific alpha and beta oscillatory dynamics. Alpha and beta oscillatory dynamics may index the coordination of the “when” as well as the “how” speech interaction takes place, reinforcing the suggestion that perception and production processes are highly interdependent and co-constructed during a conversation.
 
 ## Publication
 

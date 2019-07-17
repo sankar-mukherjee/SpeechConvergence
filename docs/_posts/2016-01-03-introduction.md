@@ -4,7 +4,8 @@ title: Introduction
 ---
 ## Short Description
 
-<img src="/SpeechConvergence/img/Convergence-thumbnail.png" width="600" align="right">
+<img src="/SpeechConvergence/img/Convergence-thumbnail.png" width="600" align="left">
+
 <p style="text-align: justify;text-justify: inter-word;">
 When people engage in verbal interaction, they adjust their speech in order to accommodate to each other. This phenomenon is called Speech Convergence. It is an emergent behavior. Although convergence is a well-known phenomenon, its quantitative assessment is still an open area of research. Here, we developed a method using automatic speaker verification technique (GMM-UBM) in order to measure speech convergence. We quantified participants' initial phonetic fingerprints and tracked their phonetic convergence during the verbal interaction.
 </p>

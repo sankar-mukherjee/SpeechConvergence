@@ -26,10 +26,7 @@ As conversation progress interlocutors simultaneously affect each others mental 
 </p>
 </details>
 
-
-
 According to speech convergence literature Convergence happens in multiple levels (phonetic, word, sentence, prosodic, discourse).
-
 
 ## Goal
 
@@ -39,11 +36,10 @@ Quantifying speech convergence and mark the time points in the conversation.
 
 We created a simple interactive task which allows better experimental control. In the task subjects involved in a relatively constrained interactive task where they were asked to take turns in chaining words according to a phonetic rhyming rule.
 
-![Domino](/SpeechConvergence/img/domino.png)
+<img src="/SpeechConvergence/img/domino.png" width="400" align="left">
+<img src="/SpeechConvergence/img/convergence_protocol.png" width="200" align="right">
 
 A computational approach for convergence calculation.
-
-![experiment](/SpeechConvergence/img/convergence_protocol.png)
 
 ## Steps
 

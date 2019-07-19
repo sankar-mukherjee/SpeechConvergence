@@ -3,7 +3,7 @@ layout: post
 title: Introduction
 ---
 
-<img src="/SpeechConvergence/img/Convergence-thumbnail.png" style="padding: 0 10px; float: right;">
+<img src="/SpeechConvergence/img/Convergence-thumbnail.png" style="padding: 5 10px; float: right;">
 
 <p style="text-align: justify;text-justify: inter-word;">
 When people engage in verbal interaction, they adjust their speech in order to accommodate to each other. This phenomenon is called Speech Convergence. It is an emergent phenomenon happens during conversation. Although convergence is a well-known phenomenon, its quantitative assessment is still an open area of research. Here, we developed a method using automatic speaker verification technique (GMM-UBM) in order to measure speech convergence. We quantified participants' initial phonetic fingerprints and tracked their phonetic convergence during the verbal interaction.
@@ -31,7 +31,7 @@ As conversation progress interlocutors simultaneously affect each others mental 
 
 ### Experiment
 
-<img src="/SpeechConvergence/img/domino.png" style="padding: 0 10px; float: left;">
+<img src="/SpeechConvergence/img/domino.png" style="padding: 5 5px; float: left;">
 
 <p style="text-align: justify;text-justify: inter-word;">
 To circumvent some of the problems that hamper an effective and robust measurement of Convergence, we did not use spontaneous conversations. Rather we used a constrained interaction task that allows better experimental control. We created a simple interactive task which allows better experimental control. In the task subjects involved in a relatively constrained interactive task where they were asked to take turns in chaining words according to a phonetic rhyming rule e.g. the first syllable of a word has to rhyme with the last syllable of the previous word.
@@ -40,7 +40,7 @@ To circumvent some of the problems that hamper an effective and robust measureme
 <p style="text-align: justify;text-justify: inter-word;">
 The experiment was divided into three main sections. Solo recordings were performed before (Pre) and after (Post) the Duet session. Solo data were needed to establish a participant-wise baseline. The Solo task required participants to pronounce 40 words randomly selected from the 200-word set of the domino chain. Words were presented one after the other on a black screen and subjects had to read them out. 
 
-<img src="/SpeechConvergence/img/convergence_protocol.png" width="500" style="padding: 0 10px; float: left;">
+<img src="/SpeechConvergence/img/convergence_protocol.png" width="500" style="padding: 5 5px; float: left;">
 
 In the Duet session, the task started with one word visually presented on the screen of one of the two participants (e.g., Participant A), while the other participant’s screen was blank. When Participant A read the word aloud, her/his screen went immediately blank and two words appeared on Participant’s B screen. Participant B chose that of the two words which best fulfilled the rhyming criterion and, as soon as she/he read that word aloud, her/his screen went blank and two other words appeared on Subject A’s screen. This cycle was repeated until the end of the list.
 </p>

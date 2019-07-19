@@ -1,6 +1,7 @@
 # SpeechConvergence
 Measuring speech convergence using GMM
 
+When people engage in verbal interaction, they adjust their speech in order to accommodate to each other. This phenomenon is called Speech Convergence. It is an emergent behavior. Although convergence is a well-known phenomenon, its quantitative assessment is still an open area of research. Here, we developed a method using automatic speaker verification technique (GMM-UBM) in order to measure speech convergence. We quantified participants' initial phonetic fingerprints and tracked their phonetic convergence during the verbal interaction.
 
 #Publication
 1. Mukherjee, S., Badino, L., M. Hilt, P., Tomassini, A., Inuggi, A., Fadiga, L., Nguyen, N. and D'Ausilio, A., 2018. The neural oscillatory markers of phonetic convergence during verbal interaction. Human brain mapping. 

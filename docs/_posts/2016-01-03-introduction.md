@@ -39,15 +39,16 @@ We created a simple interactive task which allows better experimental control. I
 <p>
 <img src="/SpeechConvergence/img/domino.png" align="middle">
 
-```bash
+{% highlight text %}
 The first syllable of a word has to rhyme with the last syllable of the previous word.
-```
+{% endhighlight %}
 
 <img src="/SpeechConvergence/img/convergence_protocol.png" width="500" align="middle">
 
-```bash
+{% highlight text %}
 Experiment Protocol
-```
+{% endhighlight %}
+
 </p>
 
 ### Steps

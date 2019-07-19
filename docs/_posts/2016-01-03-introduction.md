@@ -3,7 +3,7 @@ layout: post
 title: Introduction
 ---
 
-======
+-------
 <img src="/SpeechConvergence/img/Convergence-thumbnail.png" style="padding: 5px 5px; float: right;">
 
 <p style="text-align: justify;text-justify: inter-word;">

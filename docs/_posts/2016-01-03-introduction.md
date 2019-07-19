@@ -24,7 +24,7 @@ As conversation progress interlocutors simultaneously affect each others mental 
 </p>
 </details>
 
-Convergence happens in multiple levels (phonetic, word, sentence, prosodic, discourse).
+> Convergence happens in multiple levels (phonetic, word, sentence, prosodic, discourse).
 
 ### Goal
 
@@ -49,11 +49,10 @@ Experiment Protocol
 
 </p>
 
-### Steps
+### Steps to qunatify converegence - 
 
-The steps are -
 
-#### GMM-UBM Modeling
+> #### GMM-UBM Modeling
 
 We quantified participants' initial phonetic fingerprints and tracked their phonetic convergence during the interaction via a robust and automatic speaker verification technique.
 
@@ -67,15 +66,19 @@ Convergence is computed on word pairs. For a word pair to be a convergent one, t
 
 ### Conclusion
 
+<p style="text-align: justify;text-justify: inter-word;">
 Speech Convergence can be measured using a speaker identification technique during a well constrained task such as the Domino. Importantly, we introduced several analysis features to make the estimation of Convergence more robust. For instance, we tested modelling performance and verified its validity. We also evaluated if Convergence scores were attributable to random fluctuations in the data or were the true effect of dyadic interaction by testing them against surrogate dyads. Results show that the nature of speech Convergence is sparse, i.e., it is not evenly distributed on all the dyads. Some dyads show higher degree of Convergence while
 others rarely converge at all. A possible factor in this sparseness may be due to subjects’ attention, familiarity with the content and their likability towards each other.
+</p>
 
------
-### Publication
+### Related Publication
 
-> Mukherjee, S., D'Ausilio, A., Nguyen, N., Fadiga, L. and Badino, L., 2017, August. The Relationship Between F0 Synchrony and Speech Convergence in Dyadic Interaction. In Interspeech 2017. [Link](https://hal.archives-ouvertes.fr/hal-01579789/document)
+> Mukherjee, S., D'Ausilio, A., Nguyen, N., Fadiga, L. and Badino, L., 2017, August. The Relationship Between F0 Synchrony and Speech Convergence in Dyadic Interaction. Interspeech 2017. [Link](https://hal.archives-ouvertes.fr/hal-01579789/document)
+
+> Mukherjee, S., Legou, T., Lancia, L., Hilt, P., Tomassini, A., Fadiga, L., D'Ausilio, A., Badino, L. and Nguyen, N., 2018, September. Analyzing vocal tract movements during speech accommodation. Interspeech 2018 [Link](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2084.pdf)
 
 > Mukherjee, S., Badino, L., M. Hilt, P., Tomassini, A., Inuggi, A., Fadiga, L., Nguyen, N. and D'Ausilio, A., 2018. The neural oscillatory markers of phonetic convergence during verbal interaction. Human brain mapping. [Link](https://www.ncbi.nlm.nih.gov/pubmed/30240542)
+
  
 
 

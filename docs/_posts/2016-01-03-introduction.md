@@ -32,16 +32,20 @@ Quantifying speech convergence and mark the time points in the conversation.
 
 ### Experiment
 
-We created a simple interactive task which allows better experimental control. In the task subjects involved in a relatively constrained interactive task where they were asked to take turns in chaining words according to a phonetic rhyming rule. 
+To circumvent some of the problems that hamper an effective and robust measurement of Convergence, we did not use spontaneous conversations. Rather we used a constrained interaction task that allows better experimental control. We created a simple interactive task which allows better experimental control. In the task subjects involved in a relatively constrained interactive task where they were asked to take turns in chaining words according to a phonetic rhyming rule e.g. the first syllable of a word has to rhyme with the last syllable of the previous word.
+
 
 <p>
 <img src="/SpeechConvergence/img/domino.png" align="middle">
 
-<div class="message">
-The first syllable of a word has to rhyme with the last syllable of the previous word.
-</div>
+<div class="message">Example of word domino</div>
+
+The experiment was divided into three main sections (Figure 4.1B). Solo recordings were performed before (Solo_Pre) and after (Solo_Post) the Duet session. Solo data were needed to establish a participant-wise baseline. The Solo task required participants to pronounce 40 words randomly selected from the 200-word set of the domino chain. Words were presented one after the other on a black screen and subjects had to read them out. 
 
 <img src="/SpeechConvergence/img/convergence_protocol.png" width="500" align="middle">
+
+In the Duet session, the task started with one word visually presented on the screen of one of the two participants (e.g., Participant A), while the other participant’s screen was blank. When Participant A read the word aloud, her/his screen went immediately blank and two words appeared on Participant’s B screen. Participant B chose that of the two words which best fulfilled the rhyming criterion and, as soon as she/he read that word aloud, her/his screen went blank and two other words appeared on Subject A’s screen. This cycle was repeated until the end of the list.
+
 
 {% highlight text %}
 Experiment Protocol
@@ -49,15 +53,20 @@ Experiment Protocol
 
 </p>
 
-### Steps to qunatify Convergence - 
+### Steps to qunatify converegence - 
+Convergence Algorithm is consisting of two parts. First, we create speaker dependent models of each speakers and then we quantify Convergence based of these speaker-dependent models predictions.
 
-> #### GMM-UBM Modeling
+#### GMM-UBM Modeling
 
->> We quantified participants' initial phonetic fingerprints and tracked their phonetic convergence during the interaction via a robust and automatic speaker verification technique. [NoteBook](https://nbviewer.jupyter.org/github/sankar-mukherjee/SpeechConvergence/blob/master/GMM-UBM.ipynb){:target="_blank"}
+We quantified participants' initial phonetic fingerprints and tracked their phonetic convergence during the interaction via a robust and automatic speaker verification technique. 
 
-> #### Convergence Measurment
+[NoteBook](https://nbviewer.jupyter.org/github/sankar-mukherjee/SpeechConvergence/blob/master/GMM-UBM.ipynb){:target="_blank"}
 
->> Convergence is computed on word pairs. For a word pair to be a convergent one, the acoustic properties of the words for the two speakers must be similar to each other, as well as these properties must be significantly different than the speakers original speech. [NoteBook](https://nbviewer.jupyter.org/github/sankar-mukherjee/SpeechConvergence/blob/master/convergence.ipynb){:target="_blank"}
+#### Convergence Measurment
+
+Convergence is computed on word pairs. For a word pair to be a convergent one, the acoustic properties of the words for the two speakers must be similar to each other, as well as these properties must be significantly different than the speakers original speech.
+
+[NoteBook](https://nbviewer.jupyter.org/github/sankar-mukherjee/SpeechConvergence/blob/master/convergence.ipynb){:target="_blank"}
 
 ### Conclusion
 
